@@ -1,0 +1,20 @@
+.confirm{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    background-color: antiquewhite;
+}
+
+.confirm-content{
+    display: flex;
+}
+
+.icons{
+    position:absolute;
+    height:30px;
+    width:30px;
+    top:50px;
+    right:30px;
+    z-index:100;
+    color:black !important;
+}
